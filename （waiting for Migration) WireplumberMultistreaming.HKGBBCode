@@ -1,0 +1,20 @@
+[right][size=3][violet]#share #guide #Linux #工程師moment #audio #pipewire #setup #laptop #wireplumber #sink #intel[/violet][/size=3][/right]
+
+[center][size=5][b]（教學文）
+Linux Audio Multistreaming and separeted sink devices
+（Linux多音源輸出設定）[/b][/size=5]
+是咁的，求其寫咗個Linux guide 去拆開Wireplumber 嘅audio output sink device
+[url]https://github.com/Ramen-LadyHKG/linux-guide-split-audio-ports-multiplesinks-for-headphone-and-hdmi/tree/main[/url]
+
+[quote][img]https://raw.githubusercontent.com/Ramen-LadyHKG/linux-guide-split-audio-ports-multiplesinks-for-headphone-and-hdmi/main/pics/Screenshot_A6213%5B1%5D_(2024-July-27)_%5B08%2C13%2C19%5D__.jpg[/img]
+[/quote]
+
+依樣Linux係做得比較麻煩，by default,插耳機個sound card driver會合埋一齊做單一個sink device。
+
+想分別控制邊一個applictation用headphone 邊一個用speaker，就要麻煩少少。
+
+依個問題係得3.5mm 先有，Bluetooth/USB 耳機係冇問題[/center]
+
+[quote][img]https://github.com/Ramen-LadyHKG/linux-guide-split-audio-ports-multiplesinks-for-headphone-and-hdmi/raw/main/pics/Screenshot_A6213%5B1%5D_(2024-July-27)_%5B06,38,21%5D__.jpg[/img]
+[/quote]
+本來我係用得好哋哋，但Wireplumber更新咗去v0.5之後，放棄咗lua configuration[quote]([url]https://pipewire.pages.freedesktop.org/wireplumber/daemon/configuration/migration.html[/url])[/quote]我要重新整過個json format嘅config，所以先有依篇嘢。
