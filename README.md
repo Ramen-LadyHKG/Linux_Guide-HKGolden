@@ -30,6 +30,8 @@ We wish to promote Linux and Open Source Software across East Asia, especially a
 2. [**Linux Mint**](https://linuxmint.com/) ：輕量簡單, it works`（Update經時間考驗再推出，所以理應穩定）`
 > 以上2隻Distro都係跟機有曬Driver(包括Nvidia GPU driver)，唔需要擔心Set up任何嘢可以即時用得。\
 > 而且提供Live Environment，咁你只需要一隻USB就可以體驗佢哋，而唔需要安裝落系統。
+> ![ScreenshotOfNobara40Desktop](https://www.linuxcompatible.org/data/publish/227/baade7f4f69b75b33037919323a3737e9d1df9/screenshot_from_2024_07_17_19_20_55.jpg)
+> ![ScreenshotOfMint22Desktop](https://www.linuxmint.com/pictures/screenshots/wilma/cinnamon.png)
 ...
 #### 【邊隻Distro適合自己呀？】How to figure out which distro suits me?
 
