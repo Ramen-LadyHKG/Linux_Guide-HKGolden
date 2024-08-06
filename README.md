@@ -2,8 +2,8 @@
 由香港高登會員編寫嘅Linux使用指南。\
 A Linux Guide document maintained by HKG(Hong Kong Golden Forum) members.
 
-我哋希望吸引嚟自東亞、粵語(香港、澳門等)嘅PC使用者，選擇 Linux 作為桌面作業系統。\
-We wish to promote Linux across East Asia, especially among **Cantonese-speaking users** in Hong Kong and Macau.
+我哋希望吸引嚟自東亞、粵語(香港、澳門等)嘅PC使用者，選擇 Linux 作為桌面作業系統，同埋開源軟件文化。\
+We wish to promote Linux and Open Source Software across East Asia, especially among **Cantonese-speaking users** in Hong Kong and Macau.
 
 **歡迎任何人參與編輯。** \
 **We encourage everyone to participate in editing.**
